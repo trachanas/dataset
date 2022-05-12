@@ -1,0 +1,9 @@
+country,iso_code,date,total_vaccinations,people_vaccinated,people_fully_vaccinated,daily_vaccinations_raw,daily_vaccinations,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred,daily_vaccinations_per_million,vaccines,source_name,source_website
+Afghanistan,AFG,2021-02-22,0.0,0.0,,,,0.0,0.0,,,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",World Health Organization,https://covid19.who.int/
+Afghanistan,AFG,2021-02-23,,,,,1367.0,,,,34.0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",World Health Organization,https://covid19.who.int/
+Afghanistan,AFG,2021-02-24,,,,,1367.0,,,,34.0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",World Health Organization,https://covid19.who.int/
+Afghanistan,AFG,2021-02-25,,,,,1367.0,,,,34.0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",World Health Organization,https://covid19.who.int/
+Afghanistan,AFG,2021-02-26,,,,,1367.0,,,,34.0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",World Health Organization,https://covid19.who.int/
+Afghanistan,AFG,2021-02-27,,,,,1367.0,,,,34.0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",World Health Organization,https://covid19.who.int/
+Afghanistan,AFG,2021-02-28,8200.0,8200.0,,,1367.0,0.02,0.02,,34.0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",World Health Organization,https://covid19.who.int/
+Afghanistan,AFG,2021-03-01,,,,,1580.0,,,,40.0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",World Health Organization,https://covid19.who.int/
